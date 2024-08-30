@@ -5,7 +5,7 @@ The app uses Spring Boot to provide simple REST API support<br>
 Maven builds the app
 
 <b>To build and test use</b>:<br>
-<i>maven clean install</i>
+<i>mvn clean install</i>
 <br><br>
 <b>To deploy and run on localhost:8080:</b><br>
 
